@@ -95,3 +95,12 @@ p {
     font-size: 23px;
     background-color: cornsilk;
 }
+a {
+  text-decoration: none;
+}
+.yeet:hover{
+    color:yellowgreen;
+}
+html{
+    scroll-behavior: smooth;
+}
